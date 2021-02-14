@@ -9,6 +9,8 @@
 
 # Table Of Content:
 -  [RESPONSIVE WEB DESIGN and FLOATS ](class-01)
+-  [ jQuery, Events, and The DOM ](class-02)
+
 
 
 
