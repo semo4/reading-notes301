@@ -50,3 +50,14 @@
 ![images](images/dom.png)
 - JQuery provides methods to manipulate DOM in efficient way
 -JQuery provides methods such as .attr(), .html(), and .val() which act as getters, retrieving information from DOM elements.
+
+# 6 Reasons for Pair Programming
+## How does pair programming work?
+- it work with two programmer one act as driver and the other one act as navigator 
+
+1. Greater efficiency
+2. Engaged collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
