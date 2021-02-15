@@ -8,8 +8,9 @@
 ## Code 401 - ***Advanced Software Development***
 
 # Table Of Content:
--  [RESPONSIVE WEB DESIGN and FLOATS ](class-01)
--  [ jQuery, Events, and The DOM ](class-02)
+-  [RESPONSIVE WEB DESIGN and FLOATS](class-01)
+-  [jQuery, Events, and The DOM](class-02)
+-  [MUSTACHE and FLEXBOX](class-03)
 
 
 
