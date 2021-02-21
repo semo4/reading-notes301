@@ -9,4 +9,6 @@
 - [Responsive Web Design and Regular Expressions](class-04)
 - [Heroku Deployment](class-05)
 - [Node, Express, and APIs](class-06)
+- [APIs continued](class-07)
+
 
