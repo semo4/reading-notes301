@@ -1,4 +1,4 @@
-# APIs continued
+# APIs
 ![images](images/api.jpeg)
 
 - An API is a set of definitions and protocols for building and integrating application software.
