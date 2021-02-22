@@ -32,7 +32,7 @@
   [where "condition"];
   [] = optional
 
-  ## Creating Tables
+## Creating Tables
   ![images](images/table.png)
 - The create table statement is used to create a new table. Here is the format of a simple create table statement:
 
@@ -51,7 +51,7 @@ Format of create table if you were to use optional constraints:
         [constraint]);
  [ ] = optional
 
- ## Inserting into a Table
+## Inserting into a Table
   ![images](images/insert.png)
 - The insert statement is used to insert or add a row of data into the table.
 
