@@ -19,6 +19,7 @@
 - A relational database system contains one or more objects called tables. The data or information for the database are stored in these tables. Tables are uniquely identified by their names and are comprised of columns and rows. Columns contain the column name, data type, and any other attributes for the column. Rows contain the records or data for the columns. Here is a sample table called "weather".
 
 - city, state, high, and low are the columns. The rows contain the data for this table:
+
 ![images](images/1.png)
 
 ## Selecting Data
