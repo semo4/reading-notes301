@@ -11,6 +11,8 @@
 - [Node, Express, and APIs](class-06)
 - [APIs continued](class-07)
 - [SQL](class-08)
+- [Refactoring](class-09)
+
 
 
 
