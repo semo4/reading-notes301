@@ -14,6 +14,7 @@
 - [Refactoring](class-09)
 - [The Call Stack and Debugging](class-10)
 - [EJS](class-11)
+- [Components](class-12)
 
 
 
