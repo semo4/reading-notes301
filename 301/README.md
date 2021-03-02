@@ -16,6 +16,8 @@
 - [EJS](class-11)
 - [Components](class-12)
 - [Update/Delete](class-13)
+- [DB Normalization](class-14)
+
 
 
 
