@@ -17,6 +17,8 @@
 - [Components](class-12)
 - [Update/Delete](class-13)
 - [DB Normalization](class-14)
+- [Project Ideas & APIs](class-14b)
+
 
 
 
