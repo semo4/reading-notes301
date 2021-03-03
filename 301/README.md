@@ -18,6 +18,8 @@
 - [Update/Delete](class-13)
 - [DB Normalization](class-14)
 - [Project Ideas & APIs](class-14b)
+- [Diversity and Inclusion](class-15)
+
 
 
 
